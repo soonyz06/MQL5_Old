@@ -4,11 +4,12 @@
 
 Reasons don't work:
 - Based on TA which probably isn't real
--  Not presistant, pervasive, etc
+-  Not persistent, pervasive, etc
 - Backtests don't accurat4ly enough represent live conditions
 - Slippage, Fees
 - Overfitted despite in and out of sample, limit number of params (df), limit intervals/combinations of optimisation, blah blah..
-- 
+- Past performance is not a predictor of future results
+
 Example of Overfitting
 ![overfit](im/a.PNG)
 
@@ -20,7 +21,7 @@ Market Scanner -> Pervasive
 ![scanne4r](im/scanner.png)
 
 More Examples
-![overfit](im/c.PNG)
+![overfit](im/c.png)
 ![example](im/example2.png)
 ![example](im/example8.png)
 ![example](im/example6.png)
