@@ -3,7 +3,7 @@
 Reasons don't work:
 - Based on technica analysis (TA) which probably isn't real (too simplistic -> crowded)
 - Patterns not persistent and pervasive, regime changes, etc
-- Backtests don't accurately enough represent live conditions (liquidity, slippage, fees)
+- Backtests don't accurately enough represent live conditions (slippage, fees)
 - Trading CFDs is just a bad idea (insane leverage, overnight spread, transaction costs, etc)
 - Overfitted and not robust despite attempts at (train, val, test split), (optimised/trained using a small number of combinations of params (num of params and size of step)), live testing, walk-forward testing, etc
 - Past performance is not a predictor of future results or smth like that
